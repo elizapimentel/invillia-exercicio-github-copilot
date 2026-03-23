@@ -74,6 +74,15 @@ section h3 {
   margin-bottom: 8px;
 }
 
+.participants-list {
+  margin: 0 0 8px 20px;
+}
+
+.participants-empty {
+  color: #666;
+  font-style: italic;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
